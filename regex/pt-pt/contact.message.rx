@@ -1,0 +1,1 @@
+(dizer|texto|mensagem) (?P<Contacto>\w*) (?P<Mensagem>.*)
